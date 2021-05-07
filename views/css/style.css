@@ -519,5 +519,11 @@ footer .wrapper {
   }
   .links .link {
     width: 100%;
+  } 
+  .indigo{
+  border-width: 25px 25px 25px 25px ; 
+    border-radius: 15px; 
+    border-color: darkgoldenrod;
+    margin: 10px 10px 10px 10px ;
   }
 }
